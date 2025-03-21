@@ -18,6 +18,11 @@ TubeLoad is a simple and efficient YouTube video downloader built with Python an
 - Tkinter (for GUI)
 - customtkinter
 
+## 🖼️ Screenshots
+Here are some screenshots of the aplication:
+
+![Tubeload Rodando](https://github.com/user-attachments/assets/f48de619-af8c-441b-b9ec-f84736618c7a)
+
 ### 💾 Installation
 #### Running the Executable (Windows)
 1. Download the `TubeLoad.exe` file.
@@ -66,6 +71,11 @@ TubeLoad é um downloader de vídeos do YouTube simples e eficiente, desenvolvid
 - FFmpeg (para conversão de áudio)
 - Tkinter (para GUI)
 - customtkinter
+
+## 🖼️ Screenshots
+Aqui estão algumas capturas de tela da aplicação:
+
+![Tubeload Rodando](https://github.com/user-attachments/assets/f48de619-af8c-441b-b9ec-f84736618c7a)
 
 ### 💾 Instalação
 #### Executando o Arquivo Executável (Windows)
